@@ -1,4 +1,3 @@
-> 正在思考
 # SurveyKG
 
 - [English Version](README.md)
