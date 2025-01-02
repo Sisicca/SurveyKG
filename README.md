@@ -174,14 +174,14 @@ SurveyKG is modularized into several core components to ensure maintainability a
 The `skg_build` module is responsible for constructing the knowledge graph from academic papers. It handles tasks such as file processing, information extraction, and graph population.
 
 - **Location**: `src/skg_build/`
-- **README**: [skg_build/README.md](src/skg_build/README.md)
+- **README**: [skg_build/README.md](src/skg_build/README_zh.md)
 
 ### skg_qa
 
 The `skg_qa` module implements various question-answering systems that interact with the knowledge graph. It provides different models tailored for specific types of queries and response formats.
 
 - **Location**: `src/skg_qa/`
-- **README**: [skg_qa/README.md](src/skg_qa/README.md)
+- **README**: [skg_qa/README.md](src/skg_qa/README_zh.md)
 
 ## License
 
