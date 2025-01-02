@@ -172,14 +172,14 @@ SurveyKG 模块化为多个核心组件，以确保可维护性和可扩展性�
 `skg_build` 模块负责从学术论文构建知识图谱。它处理文件处理、信息提取和图谱填充等任务。
 
 - **位置**：`src/skg_build/`
-- **README**： [skg_build/README.md](src/skg_build/README.md)
+- **README**： [skg_build/README_zh.md](src/skg_build/README_zh.md)
 
 ### skg_qa
 
 `skg_qa` 模块实现了与知识图谱交互的各种问答系统。它提供了针对特定类型查询和响应格式的不同模型。
 
 - **位置**：`src/skg_qa/`
-- **README**： [skg_qa/README.md](src/skg_qa/README.md)
+- **README**： [skg_qa/README_zh.md](src/skg_qa/README_zh.md)
 
 ## 许可证
 
