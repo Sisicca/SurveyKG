@@ -1,4 +1,5 @@
 models/*
+!models/README.md
 src/config/config.yaml
 src/skg_build/Construct.ipynb
 .DS_Store
