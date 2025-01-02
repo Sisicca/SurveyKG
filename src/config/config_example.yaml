@@ -1,0 +1,12 @@
+neo4j_uri: "bolt://localhost:7687"
+neo4j_username: "neo4j"
+neo4j_password: "12345678"
+
+papers_path: "../papers/KGLLM"
+
+openai_api_key: "Your OpenAI API Key"
+openai_base_url: "Your OpenAI Base Url"
+
+zhipuai_api_key: "Your ZhipuAI API Key"
+
+device: "cuda/cpu/mps/..."

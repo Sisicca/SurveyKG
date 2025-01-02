@@ -1,3 +1,7 @@
+models/*
+src/config/config.yaml
+src/skg_build/Construct.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
